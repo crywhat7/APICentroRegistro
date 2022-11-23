@@ -1,0 +1,18 @@
+01;Atlantida
+02;Colon
+03;Comayagua
+04;Copan
+05;Cortes
+06;Choluteca
+07;El Paraiso
+08;Francisco Morazan
+09;Gracias a Dios
+10;Intibuca
+11;Islas de la Bahia
+12;La Paz
+13;Lempira
+14;Ocotepeque
+15;Olancho
+16;Santa Barbara
+17;Valle
+18;Yoro
